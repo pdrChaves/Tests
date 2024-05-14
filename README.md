@@ -1,2 +1,2 @@
-# Testes-Exercicios
-testes e exercícios feitos no meu curso
+# my learning.
+Tests and exercises done during my learning process
