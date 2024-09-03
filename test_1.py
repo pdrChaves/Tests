@@ -19,3 +19,4 @@ print('multiplicação' , multiplicação)
 print('subtração' , subtração)
 print('adição' , adição)
 
+
